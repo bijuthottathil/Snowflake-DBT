@@ -1,7 +1,6 @@
 # Data Transformation using DBT Core in SNOWFLAKE
-                           ![image](https://github.com/user-attachments/assets/4b442899-7d8c-482a-a320-52720af01aed)
 
-
+![image](https://github.com/user-attachments/assets/7b4844dc-129d-463d-90d8-15b29b73c418)
 
 
 Pre requisites

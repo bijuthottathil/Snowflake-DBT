@@ -63,7 +63,10 @@ Whatever entries I added, will be available in profile.yml
 
 ![image](https://github.com/user-attachments/assets/d2094ca3-d9fa-4c74-b388-e40f3faf01a3)
 
-![image](https://github.com/user-attachments/assets/a0d680dc-289e-45af-946e-a5cc6cc3f6a0)
+
+![image](https://github.com/user-attachments/assets/6b9725f8-32c1-4604-b3b1-419c493d4629)
+
+
 go back to prompt and move to project folder we created
 
 While opening folder you will see below structure

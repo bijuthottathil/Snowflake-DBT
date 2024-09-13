@@ -4,8 +4,11 @@
 
 
 Pre requisites
-Installation of Dbt Core in your machine -Steps to follow
-Create a new folder in your machine then
+Installation of Dbt Core in your machine -
+
+Steps to follow
+
+Create a new folder in your machine then,
         git clone https://github.com/dbt-labs/dbt-core.git
         cd dbt-core
         python -m pip install -r requirements.txt
@@ -17,7 +20,10 @@ Make sure that appropriate python and DBT extensions are installed in VS Code
 ![image](https://github.com/user-attachments/assets/440d4e10-163e-4eda-9805-5f98e31b93c4)
 
 ![image](https://github.com/user-attachments/assets/ccf130d8-3d20-49eb-93cd-99b032328c72)
+
 change the folder and execute
+
+
 ![image](https://github.com/user-attachments/assets/83cc5820-4212-4f29-b448-811c44d552d5)
 
 After DBT installation, we need to create Virtual Environment 
@@ -38,7 +44,11 @@ pip install dbt-snowflake
 
 ![image](https://github.com/user-attachments/assets/2ee92382-3a1c-4465-9843-c770b8b86bfa)
 
-After installation, we will focus SnowFlake DB and tables we are goint to use
+
+
+After installation, we will focus SnowFlake DB and tables we are going to use
+
+
 We will be using below highlighted tables
 
 ![image](https://github.com/user-attachments/assets/9c2092ba-8422-4091-aba0-0e44c300c307)
